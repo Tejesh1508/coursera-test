@@ -1,3 +1,13 @@
 h1{
 background-color: red;
 }
+
+.row { widht: 100%; }
+ .pa {
+    border: 3px solid black;
+		background-color: blue;
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+		height: 300px;
+	}
